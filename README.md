@@ -1,4 +1,3 @@
-rome-parent
-===========
+# Project moved
 
-Parent for all ROME projects
+We have combined all ROME projects in one repository: https://github.com/rometools/rome
